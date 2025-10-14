@@ -18,7 +18,7 @@
 
 ### **Descripción**
 
-*El sistema te permite ver y reservar canchas de distintos deportes de manera rápida y sencilla. Podés registrar clientes, canchas, tipos de cancha y servicios extras, como así también manejar las reservas. Todo queda organizado para que no haya choques de horarios y los administradores puedan controlar todo sin problemas.*
+*El sistema te permite ver y reservar canchas de distintos deportes de manera rápida y sencilla. Podés registrar clientes, canchas y servicios extras, como así también manejar las reservas. Todo queda organizado para que no haya choques de horarios y los administradores puedan controlar todo sin problemas.*
 
 ### **Modelo**
 
